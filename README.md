@@ -1,6 +1,6 @@
 ## Gina Profile
 ---------------------
-📩 Email : jaleeck1113@gmail.com <br>
+📩 Email : jaleeck1113@gmail.com <br />
 ☎️ Phone : 010 2400 3252
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-gina&show_icons=true&theme=transparent)
