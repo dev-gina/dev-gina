@@ -1,7 +1,7 @@
 ## Profile
 ---------------------
-Email : jaleeck1113@gmail.com <br>
-Phone : 010 2400 3252
+📩 Email : jaleeck1113@gmail.com <br>
+☎️ Phone : 010 2400 3252
 
 
 
